@@ -1,1 +1,24 @@
 /*  your css code here. If applicable */
+header{
+	text-align:center;
+}
+table{
+	width:100%;
+	border-collapse:collapse;
+	
+}
+table tr td{
+	border:1px solid black;
+}
+.center{
+	text-align:center;
+}
+.right{
+	text-align:right;
+}
+#table-2 td{
+	padding:22px;
+}
+#t21{
+	colspan:6;
+}
